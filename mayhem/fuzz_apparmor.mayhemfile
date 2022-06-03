@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz_apparmor
+cmds:
+- cmd: /out/fuzz_apparmor
